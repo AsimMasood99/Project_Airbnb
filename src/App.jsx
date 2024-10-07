@@ -1,12 +1,20 @@
-import Navbar from "./components/Navbar"
-import Searchbar from "./components/Searchbar"
+import Navbar from "./components/Navbar";
+import ScrollList from "./components/ScrollList";
+import Searchbar from "./components/Searchbar";
 function App() {
-  return (
-    <>
-      <Navbar/>
-      <Searchbar/>
-    </>  
-  )
+	return (
+		<>
+			<Navbar />
+			<div className="flex justify-center">
+				<Searchbar />
+			</div>
+			<div className="flex justify-center mt-16">
+				<div className="w-[80%]">
+					<ScrollList />
+				</div>
+			</div>
+		</>
+	);
 }
 
-export default App
+export default App;
