@@ -1,9 +1,76 @@
 [
 {
-  "name":"asim",
-  "age": "19"
+  "img":"/house.jpg",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},
+{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
 },{
-  "name": "Shoaib",
-  "age": "21"
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
+},{
+  "img":"",
+  "title":"Big Villah",
+  "type": "House",
+  "price":"1000",
+  "rating":"5"
 }
 ]
