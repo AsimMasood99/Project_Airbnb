@@ -1,8 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-
-
-
 function ScrollList() {
 
   const [menuItems,setMenuItems] = useState([])
@@ -18,7 +15,7 @@ function ScrollList() {
 					{
             menuItems.map((item,index)=>{
               return <li>
-                <img src="" alt="" />
+                <img src={item.img} alt="" className="opacity-40 h-8 hover:opacity-100 duration-400" />
                 <div>
                   {item.category}
                 </div>

@@ -1,5 +1,6 @@
 [{
-  "category":"Room"
+  "category":"Room",
+  "img": "/CategoriesImages/img1.jpg"
 },{
   "category":"Amazing views"
 },
